@@ -3,16 +3,16 @@ body{
     background-image: linear-gradient(#c0dfb3,#8bd9e7); 
     display: flex; 
     gap: 20px;
-    width: 100%;
+    width: 90%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
+    height: 99vh;
     flex-direction: column;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
 }
 
 .logo{
-    border-radius: 50%;
+    border-radius: 43%;
 }
